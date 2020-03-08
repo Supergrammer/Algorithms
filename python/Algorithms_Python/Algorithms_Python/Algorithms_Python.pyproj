@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>10718_Welovekriii.py</StartupFile>
+    <StartupFile>1110_더하기사이클.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,11 +22,77 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="1000_A+B.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1001_A-B.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1008_AdivB.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10171_고양이.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10172_개.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="10718_Welovekriii.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="10817_세수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10871_X보다작은수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10950_A+B-3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10951_A+B-4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10952_A+B-5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1110_더하기사이클.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1330_두수비교하기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="15552_빠른A+B.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="15740_A+B-9.py" />
+    <Compile Include="2438_별찍기.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2557_HelloWorld.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2588_곱셈.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2739_구구단.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2741_N찍기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2742_기찍N.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2753_윤년.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="5543_상근날드.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="8393_합.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="9498_시험성적.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
