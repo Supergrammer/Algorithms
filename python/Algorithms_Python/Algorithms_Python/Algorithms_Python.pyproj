@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>4344_평균은넘겠지.py</StartupFile>
+    <StartupFile>1065_한수.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -35,6 +35,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="10172_개.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1065_한수.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="10718_Welovekriii.py">
@@ -70,6 +73,9 @@
     <Compile Include="15552_빠른A+B.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="15596_정수N개의합.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="15740_A+B-9.py" />
     <Compile Include="2438_별찍기.py">
       <SubType>Code</SubType>
@@ -102,6 +108,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="4344_평균은넘겠지.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="4673_셀프넘버.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="5543_상근날드.py">
