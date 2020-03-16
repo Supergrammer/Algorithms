@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1065_한수.py</StartupFile>
+    <StartupFile>1316_그룹단어체커.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,6 +28,9 @@
     <Compile Include="1001_A-B.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="10039_평균점수.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1008_AdivB.py">
       <SubType>Code</SubType>
     </Compile>
@@ -41,6 +44,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="10718_Welovekriii.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10809_알파벳찾기.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="10817_세수.py">
@@ -61,7 +67,25 @@
     <Compile Include="10952_A+B-5.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="10996_별찍기-21.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1110_더하기사이클.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1152_단어의개수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1157_단어공부.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="11654_아스키코드.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="11720_숫자의합.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1316_그룹단어체커.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1330_두수비교하기.py">
@@ -80,6 +104,12 @@
     <Compile Include="2438_별찍기.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="2446_별찍기-9.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2523_별찍기-13.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2557_HelloWorld.py">
       <SubType>Code</SubType>
     </Compile>
@@ -90,6 +120,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2588_곱셈.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2675_문자열반복.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2739_구구단.py">
@@ -104,6 +137,12 @@
     <Compile Include="2753_윤년.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="2908_상수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2941_크로아티아알파벳.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="3052_나머지.py">
       <SubType>Code</SubType>
     </Compile>
@@ -114,6 +153,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="5543_상근날드.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="5622_다이얼.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="8393_합.py">
