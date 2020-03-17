@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1316_그룹단어체커.py</StartupFile>
+    <StartupFile>2292_벌집.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -91,6 +91,9 @@
     <Compile Include="1330_두수비교하기.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="14681_사분면고르기.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1546_평균.py">
       <SubType>Code</SubType>
     </Compile>
@@ -101,6 +104,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="15740_A+B-9.py" />
+    <Compile Include="1712_손익분기점.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2292_벌집.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2438_별찍기.py">
       <SubType>Code</SubType>
     </Compile>
@@ -135,6 +144,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2753_윤년.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2839_설탕배달.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2908_상수.py">
