@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2292_벌집.py</StartupFile>
+    <StartupFile>2869_달팽이는올라가고싶다.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -85,6 +85,9 @@
     <Compile Include="11720_숫자의합.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="1193_분수찾기.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1316_그룹단어체커.py">
       <SubType>Code</SubType>
     </Compile>
@@ -147,6 +150,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2839_설탕배달.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2869_달팽이는올라가고싶다.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2908_상수.py">
