@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2869_달팽이는올라가고싶다.py</StartupFile>
+    <StartupFile>10870_피보나치수5.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -53,6 +53,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="10818_최소,최대.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10870_피보나치수5.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="10871_X보다작은수.py">
@@ -183,6 +186,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="9498_시험성적.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10872_팩토리얼.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
