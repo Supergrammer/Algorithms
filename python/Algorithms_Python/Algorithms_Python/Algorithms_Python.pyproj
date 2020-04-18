@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>10870_피보나치수5.py</StartupFile>
+    <StartupFile>programmers200418.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -189,6 +189,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="10872_팩토리얼.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="programmers200418.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
