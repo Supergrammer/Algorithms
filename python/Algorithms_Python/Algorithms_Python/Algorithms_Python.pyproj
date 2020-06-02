@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>programmers200418.py</StartupFile>
+    <StartupFile>2178_미로탐색.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -91,6 +91,9 @@
     <Compile Include="1193_분수찾기.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="1260_DFS와BFS.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1316_그룹단어체커.py">
       <SubType>Code</SubType>
     </Compile>
@@ -111,6 +114,9 @@
     </Compile>
     <Compile Include="15740_A+B-9.py" />
     <Compile Include="1712_손익분기점.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2178_미로탐색.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2292_벌집.py">
