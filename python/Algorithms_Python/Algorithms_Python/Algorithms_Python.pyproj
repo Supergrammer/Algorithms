@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2178_미로탐색.py</StartupFile>
+    <StartupFile>6603_로또.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -32,6 +32,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1008_AdivB.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1012_유기농배추.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="10171_고양이.py">
@@ -88,6 +91,9 @@
     <Compile Include="11720_숫자의합.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="11724_연결요소의개수.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1193_분수찾기.py">
       <SubType>Code</SubType>
     </Compile>
@@ -98,6 +104,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1330_두수비교하기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="14502_연구소.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="14681_사분면고르기.py">
@@ -113,6 +122,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="15740_A+B-9.py" />
+    <Compile Include="1697_숨바꼭질.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1712_손익분기점.py">
       <SubType>Code</SubType>
     </Compile>
@@ -141,6 +153,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2588_곱셈.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2667_단지번호붙이기.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2675_문자열반복.py">
@@ -185,6 +200,12 @@
     <Compile Include="5622_다이얼.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="6603_로또.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="7576_토마토.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="8393_합.py">
       <SubType>Code</SubType>
     </Compile>
@@ -200,6 +221,7 @@
     <Compile Include="programmers200418.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="programmers200523.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="Algorithms_Python\">
