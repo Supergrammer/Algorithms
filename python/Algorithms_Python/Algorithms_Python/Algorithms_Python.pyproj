@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>6603_로또.py</StartupFile>
+    <StartupFile>3055_탈출.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1001_A-B.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="10026_적록색약.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="10039_평균점수.py">
@@ -77,6 +80,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1110_더하기사이클.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="11403_경로찾기.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1152_단어의개수.py">
@@ -131,6 +137,9 @@
     <Compile Include="2178_미로탐색.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="2206_벽부수고이동하기.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2292_벌집.py">
       <SubType>Code</SubType>
     </Compile>
@@ -138,6 +147,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2446_별찍기-9.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2468_안전영역.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2523_별찍기-13.py">
@@ -152,7 +164,13 @@
     <Compile Include="2577_숫자의개수.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="2583_영역구하기.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2588_곱셈.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2644_촌수계산.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2667_단지번호붙이기.py">
@@ -188,6 +206,9 @@
     <Compile Include="3052_나머지.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="3055_탈출.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="4344_평균은넘겠지.py">
       <SubType>Code</SubType>
     </Compile>
@@ -201,6 +222,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="6603_로또.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="7562_나이트의이동.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="7569_토마토.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="7576_토마토.py">
