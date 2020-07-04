@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>3055_탈출.py</StartupFile>
+    <StartupFile>2573_빙산.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -112,6 +112,9 @@
     <Compile Include="1330_두수비교하기.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="1389_케빈베이컨의6단계법칙.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="14502_연구소.py">
       <SubType>Code</SubType>
     </Compile>
@@ -161,6 +164,9 @@
     <Compile Include="2562_최댓값.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="2573_빙산.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2577_숫자의개수.py">
       <SubType>Code</SubType>
     </Compile>
@@ -168,6 +174,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2588_곱셈.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2589_보물섬.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2644_촌수계산.py">
