@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2573_빙산.py</StartupFile>
+    <StartupFile>__1967_트리의지름.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -137,6 +137,15 @@
     <Compile Include="1712_손익분기점.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="__1967_트리의지름.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="9019_DSLR.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="_2146_다리만들기.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2178_미로탐색.py">
       <SubType>Code</SubType>
     </Compile>
@@ -164,7 +173,10 @@
     <Compile Include="2562_최댓값.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2573_빙산.py">
+    <Compile Include="5014_스타트링크.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="_2573_빙산.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2577_숫자의개수.py">
