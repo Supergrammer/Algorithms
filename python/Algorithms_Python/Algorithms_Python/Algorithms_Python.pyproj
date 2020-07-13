@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>3190_뱀.py</StartupFile>
+    <StartupFile>__5397_키로거.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -49,10 +49,37 @@
     <Compile Include="1018_체스판다시칠하기.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="1021_회전하는큐.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1057_토너먼트.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1120_문자열.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="14499_주사위굴리기.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="14890_경사로.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="14891_톱니바퀴.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1547_공.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2164_카드2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="3190_뱀.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="__5397_키로거.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="5532_방학숙제.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="__1049_기타줄.py">
