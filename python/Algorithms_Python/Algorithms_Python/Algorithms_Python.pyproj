@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>__5397_키로거.py</StartupFile>
+    <StartupFile>2630_색종이만들기.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -58,6 +58,9 @@
     <Compile Include="1120_문자열.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="11559_PuyoPuyo.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="14499_주사위굴리기.py">
       <SubType>Code</SubType>
     </Compile>
@@ -70,13 +73,22 @@
     <Compile Include="1547_공.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="2161_카드1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2164_카드2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2630_색종이만들기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2972_트럭주차.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="3190_뱀.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="__5397_키로거.py">
+    <Compile Include="5397_키로거.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="5532_방학숙제.py">
