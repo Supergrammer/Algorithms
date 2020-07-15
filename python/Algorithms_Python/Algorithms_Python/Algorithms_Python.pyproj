@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2630_색종이만들기.py</StartupFile>
+    <StartupFile>__9466_텀프로젝트.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -71,6 +71,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1547_공.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="__9466_텀프로젝트.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="_1987_알파벳.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2161_카드1.py">
