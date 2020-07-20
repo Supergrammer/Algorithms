@@ -14,5 +14,5 @@ def DP(n):
 	return memoi[n]
 
 N = int(input())
-memoi = [-1 for _ in range(1000001)]
+memoi = [-1] * 1000001
 print(DP(N))

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1463_1로만들기.py</StartupFile>
+    <StartupFile>2156_포도주시식.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -34,6 +34,9 @@
     <Compile Include="10039_평균점수.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="1003_피보나치함수.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1008_AdivB.py">
       <SubType>Code</SubType>
     </Compile>
@@ -58,7 +61,13 @@
     <Compile Include="1120_문자열.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="1149_RGB거리.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="11559_PuyoPuyo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="11726_2xn타일링.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="14499_주사위굴리기.py">
@@ -74,6 +83,21 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1547_공.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1932_정수삼각형.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2156_포도주시식.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2193_이친수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2579_계단오르기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="9095_1,2,3더하기.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="__9466_텀프로젝트.py">
