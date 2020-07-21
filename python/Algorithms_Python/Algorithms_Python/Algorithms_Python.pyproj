@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2156_포도주시식.py</StartupFile>
+    <StartupFile>__11053_가장긴증가하는부분수열.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -58,6 +58,12 @@
     <Compile Include="1057_토너먼트.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="10844_쉬운계단수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="__11053_가장긴증가하는부분수열.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1120_문자열.py">
       <SubType>Code</SubType>
     </Compile>
@@ -83,6 +89,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1547_공.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1912_연속합.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1932_정수삼각형.py">
