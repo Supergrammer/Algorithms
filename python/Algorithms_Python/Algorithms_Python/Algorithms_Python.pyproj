@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>__11053_가장긴증가하는부분수열.py</StartupFile>
+    <StartupFile>14501_퇴사.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -61,7 +61,7 @@
     <Compile Include="10844_쉬운계단수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="__11053_가장긴증가하는부분수열.py">
+    <Compile Include="11053_가장긴증가하는부분수열.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1120_문자열.py">
@@ -76,7 +76,13 @@
     <Compile Include="11726_2xn타일링.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="11727_2xn타일링2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="14499_주사위굴리기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="14501_퇴사.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1463_1로만들기.py">
@@ -89,6 +95,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1547_공.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="15486_퇴사2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1912_연속합.py">
@@ -107,6 +116,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="9095_1,2,3더하기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="9461_파도반수열.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="__9466_텀프로젝트.py">
