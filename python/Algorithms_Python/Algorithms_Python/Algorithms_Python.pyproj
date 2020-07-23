@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>14501_퇴사.py</StartupFile>
+    <StartupFile>2174_로봇시뮬레이션.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -40,6 +40,9 @@
     <Compile Include="1008_AdivB.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="1010_다리놓기.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1012_유기농배추.py">
       <SubType>Code</SubType>
     </Compile>
@@ -59,6 +62,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="10844_쉬운계단수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="11052_카드구매하기.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="11053_가장긴증가하는부분수열.py">
@@ -109,6 +115,12 @@
     <Compile Include="2156_포도주시식.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="2163_초콜릿자르기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2174_로봇시뮬레이션.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2193_이친수.py">
       <SubType>Code</SubType>
     </Compile>
@@ -119,6 +131,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="9461_파도반수열.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="9465_스티커.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="__9466_텀프로젝트.py">
