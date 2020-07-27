@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2174_로봇시뮬레이션.py</StartupFile>
+    <StartupFile>__2294_동전2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -64,10 +64,19 @@
     <Compile Include="10844_쉬운계단수.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="11048_이동하기.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="11052_카드구매하기.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="11053_가장긴증가하는부분수열.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="11055_가장큰증가부분수열.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="11057_오르막수.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1120_문자열.py">
@@ -106,6 +115,9 @@
     <Compile Include="15486_퇴사2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="1904_01타일.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1912_연속합.py">
       <SubType>Code</SubType>
     </Compile>
@@ -118,10 +130,16 @@
     <Compile Include="2163_초콜릿자르기.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="2167_2차원배열의합.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="2174_로봇시뮬레이션.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2193_이친수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="__2294_동전2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2579_계단오르기.py">
