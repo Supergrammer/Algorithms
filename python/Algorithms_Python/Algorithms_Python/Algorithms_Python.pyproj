@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>__16235_나무재테크.py</StartupFile>
+    <StartupFile>17390_이건꼭풀어야해!.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -113,6 +113,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="15486_퇴사2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="17390_이건꼭풀어야해!.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="__16235_나무재테크.py">
