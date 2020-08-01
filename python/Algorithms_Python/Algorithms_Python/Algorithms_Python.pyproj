@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>17390_이건꼭풀어야해!.py</StartupFile>
+    <StartupFile>Toss_토스카페바테이블둘레구하기200801.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -116,6 +116,27 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="17390_이건꼭풀어야해!.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Toss_1은2가좋지만2는생각이없다200801.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Toss_김토스와이토스200801.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Toss_내가주운로또복권이가짜인가200801.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Toss_단기기억상실증200801.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Toss_유효데이터복사하기200801.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Toss_초고속응답함수200801.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Toss_토스카페바테이블둘레구하기200801.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="__16235_나무재테크.py">
