@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Toss_토스카페바테이블둘레구하기200801.py</StartupFile>
+    <StartupFile>10989_수정렬하기3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -64,6 +64,9 @@
     <Compile Include="10844_쉬운계단수.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="10989_수정렬하기3.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="11048_이동하기.py">
       <SubType>Code</SubType>
     </Compile>
@@ -88,10 +91,16 @@
     <Compile Include="11559_PuyoPuyo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="11655_ROT13.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="11726_2xn타일링.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="11727_2xn타일링2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1427_소트인사이드.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="14499_주사위굴리기.py">
@@ -116,6 +125,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="17390_이건꼭풀어야해!.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2751_수정렬하기2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Toss_1은2가좋지만2는생각이없다200801.py">
