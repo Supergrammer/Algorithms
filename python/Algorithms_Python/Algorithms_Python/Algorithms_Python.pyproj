@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>10989_수정렬하기3.py</StartupFile>
+    <StartupFile>1748_수이어쓰기1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -125,6 +125,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="17390_이건꼭풀어야해!.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1748_수이어쓰기1.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2751_수정렬하기2.py">
