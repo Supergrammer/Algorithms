@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1748_수이어쓰기1.py</StartupFile>
+    <StartupFile>11866_요세푸스문제0.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -98,6 +98,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="11727_2xn타일링2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="11866_요세푸스문제0.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1427_소트인사이드.py">
