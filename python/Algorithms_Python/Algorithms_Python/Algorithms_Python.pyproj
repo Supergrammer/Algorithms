@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Socar200823.py</StartupFile>
+    <StartupFile>programmers_lv2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -134,6 +134,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2751_수정렬하기2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="programmers_lv1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="programmers_lv2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Socar200823.py">
