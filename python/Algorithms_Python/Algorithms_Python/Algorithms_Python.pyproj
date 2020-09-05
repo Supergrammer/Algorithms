@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>programmers_lv2.py</StartupFile>
+    <StartupFile>Preparation\Kakao\__[1차]다트게임.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,458 +22,473 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="1000_A+B.py">
+    <Compile Include="Baekjoon\1000_A+B.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1001_A-B.py">
+    <Compile Include="Baekjoon\1001_A-B.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10026_적록색약.py">
+    <Compile Include="Baekjoon\10026_적록색약.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10039_평균점수.py">
+    <Compile Include="Baekjoon\10039_평균점수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1003_피보나치함수.py">
+    <Compile Include="Baekjoon\1003_피보나치함수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1008_AdivB.py">
+    <Compile Include="Baekjoon\1008_AdivB.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1010_다리놓기.py">
+    <Compile Include="Baekjoon\1010_다리놓기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1012_유기농배추.py">
+    <Compile Include="Baekjoon\1012_유기농배추.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10171_고양이.py">
+    <Compile Include="Baekjoon\10171_고양이.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10172_개.py">
+    <Compile Include="Baekjoon\10172_개.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1018_체스판다시칠하기.py">
+    <Compile Include="Baekjoon\1018_체스판다시칠하기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1021_회전하는큐.py">
+    <Compile Include="Baekjoon\1021_회전하는큐.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1057_토너먼트.py">
+    <Compile Include="Baekjoon\1057_토너먼트.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10844_쉬운계단수.py">
+    <Compile Include="Baekjoon\10844_쉬운계단수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10989_수정렬하기3.py">
+    <Compile Include="Baekjoon\10989_수정렬하기3.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11048_이동하기.py">
+    <Compile Include="Baekjoon\11048_이동하기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11052_카드구매하기.py">
+    <Compile Include="Baekjoon\11052_카드구매하기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11053_가장긴증가하는부분수열.py">
+    <Compile Include="Baekjoon\11053_가장긴증가하는부분수열.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11055_가장큰증가부분수열.py">
+    <Compile Include="Baekjoon\11055_가장큰증가부분수열.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11057_오르막수.py">
+    <Compile Include="Baekjoon\11057_오르막수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1120_문자열.py">
+    <Compile Include="Baekjoon\1120_문자열.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1149_RGB거리.py">
+    <Compile Include="Baekjoon\1149_RGB거리.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11559_PuyoPuyo.py">
+    <Compile Include="Baekjoon\11559_PuyoPuyo.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11655_ROT13.py">
+    <Compile Include="Baekjoon\11655_ROT13.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11726_2xn타일링.py">
+    <Compile Include="Baekjoon\11726_2xn타일링.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11727_2xn타일링2.py">
+    <Compile Include="Baekjoon\11727_2xn타일링2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11866_요세푸스문제0.py">
+    <Compile Include="Baekjoon\11866_요세푸스문제0.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1427_소트인사이드.py">
+    <Compile Include="Baekjoon\1427_소트인사이드.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="14499_주사위굴리기.py">
+    <Compile Include="Baekjoon\14499_주사위굴리기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="14501_퇴사.py">
+    <Compile Include="Baekjoon\14501_퇴사.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1463_1로만들기.py">
+    <Compile Include="Baekjoon\1463_1로만들기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="14890_경사로.py">
+    <Compile Include="Baekjoon\14890_경사로.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="14891_톱니바퀴.py">
+    <Compile Include="Baekjoon\14891_톱니바퀴.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1547_공.py">
+    <Compile Include="Baekjoon\1547_공.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="15486_퇴사2.py">
+    <Compile Include="Baekjoon\15486_퇴사2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="17390_이건꼭풀어야해!.py">
+    <Compile Include="Baekjoon\17390_이건꼭풀어야해!.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1748_수이어쓰기1.py">
+    <Compile Include="Baekjoon\1748_수이어쓰기1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2751_수정렬하기2.py">
+    <Compile Include="Baekjoon\2751_수정렬하기2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="programmers_lv1.py">
+    <Compile Include="Preparation\Kakao\__[1차]다트게임.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="programmers_lv2.py">
+    <Compile Include="Preparation\Kakao\[1차]비밀지도.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Socar200823.py">
+    <Compile Include="Preparation\Kakao\실패율.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Toss_1은2가좋지만2는생각이없다200801.py">
+    <Compile Include="Preparation\Kakao\크레인인형뽑기게임.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Toss_김토스와이토스200801.py">
+    <Compile Include="Preparation\Kakao\키패드누르기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Toss_내가주운로또복권이가짜인가200801.py">
+    <Compile Include="Programmers\programmers_lv1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Toss_단기기억상실증200801.py">
+    <Compile Include="Programmers\programmers_lv2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Toss_유효데이터복사하기200801.py">
+    <Compile Include="Test\Socar200823.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Toss_초고속응답함수200801.py">
+    <Compile Include="Test\Toss_1은2가좋지만2는생각이없다200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Toss_토스카페바테이블둘레구하기200801.py">
+    <Compile Include="Test\Toss_김토스와이토스200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="__16235_나무재테크.py">
+    <Compile Include="Test\Toss_내가주운로또복권이가짜인가200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1904_01타일.py">
+    <Compile Include="Test\Toss_단기기억상실증200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1912_연속합.py">
+    <Compile Include="Test\Toss_유효데이터복사하기200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1932_정수삼각형.py">
+    <Compile Include="Test\Toss_초고속응답함수200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2156_포도주시식.py">
+    <Compile Include="Test\Toss_토스카페바테이블둘레구하기200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2163_초콜릿자르기.py">
+    <Compile Include="Baekjoon\__16235_나무재테크.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2167_2차원배열의합.py">
+    <Compile Include="Baekjoon\1904_01타일.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2174_로봇시뮬레이션.py">
+    <Compile Include="Baekjoon\1912_연속합.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2193_이친수.py">
+    <Compile Include="Baekjoon\1932_정수삼각형.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="__2294_동전2.py">
+    <Compile Include="Baekjoon\2156_포도주시식.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2579_계단오르기.py">
+    <Compile Include="Baekjoon\2163_초콜릿자르기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="9095_1,2,3더하기.py">
+    <Compile Include="Baekjoon\2167_2차원배열의합.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="9461_파도반수열.py">
+    <Compile Include="Baekjoon\2174_로봇시뮬레이션.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="9465_스티커.py">
+    <Compile Include="Baekjoon\2193_이친수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="__9466_텀프로젝트.py">
+    <Compile Include="Baekjoon\__2294_동전2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="_1987_알파벳.py">
+    <Compile Include="Baekjoon\2579_계단오르기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2161_카드1.py">
+    <Compile Include="Baekjoon\9095_1,2,3더하기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2164_카드2.py">
+    <Compile Include="Baekjoon\9461_파도반수열.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2630_색종이만들기.py">
+    <Compile Include="Baekjoon\9465_스티커.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2972_트럭주차.py">
+    <Compile Include="Baekjoon\__9466_텀프로젝트.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="3190_뱀.py">
+    <Compile Include="Baekjoon\_1987_알파벳.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="5397_키로거.py">
+    <Compile Include="Baekjoon\2161_카드1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="5532_방학숙제.py">
+    <Compile Include="Baekjoon\2164_카드2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="__1049_기타줄.py">
+    <Compile Include="Baekjoon\2630_색종이만들기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1065_한수.py">
+    <Compile Include="Baekjoon\2972_트럭주차.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10718_Welovekriii.py">
+    <Compile Include="Baekjoon\3190_뱀.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10809_알파벳찾기.py">
+    <Compile Include="Baekjoon\5397_키로거.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10817_세수.py">
+    <Compile Include="Baekjoon\5532_방학숙제.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10818_최소,최대.py">
+    <Compile Include="Baekjoon\__1049_기타줄.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10870_피보나치수5.py">
+    <Compile Include="Baekjoon\1065_한수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10871_X보다작은수.py">
+    <Compile Include="Baekjoon\10718_Welovekriii.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1094_막대기.py">
+    <Compile Include="Baekjoon\10809_알파벳찾기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10950_A+B-3.py">
+    <Compile Include="Baekjoon\10817_세수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10951_A+B-4.py">
+    <Compile Include="Baekjoon\10818_최소,최대.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10952_A+B-5.py">
+    <Compile Include="Baekjoon\10870_피보나치수5.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10996_별찍기-21.py">
+    <Compile Include="Baekjoon\10871_X보다작은수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1110_더하기사이클.py">
+    <Compile Include="Baekjoon\1094_막대기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11403_경로찾기.py">
+    <Compile Include="Baekjoon\10950_A+B-3.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1152_단어의개수.py">
+    <Compile Include="Baekjoon\10951_A+B-4.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1157_단어공부.py">
+    <Compile Include="Baekjoon\10952_A+B-5.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11654_아스키코드.py">
+    <Compile Include="Baekjoon\10996_별찍기-21.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11720_숫자의합.py">
+    <Compile Include="Baekjoon\1110_더하기사이클.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="11724_연결요소의개수.py">
+    <Compile Include="Baekjoon\11403_경로찾기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1193_분수찾기.py">
+    <Compile Include="Baekjoon\1152_단어의개수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1260_DFS와BFS.py">
+    <Compile Include="Baekjoon\1157_단어공부.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1316_그룹단어체커.py">
+    <Compile Include="Baekjoon\11654_아스키코드.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1330_두수비교하기.py">
+    <Compile Include="Baekjoon\11720_숫자의합.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1389_케빈베이컨의6단계법칙.py">
+    <Compile Include="Baekjoon\11724_연결요소의개수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="14502_연구소.py">
+    <Compile Include="Baekjoon\1193_분수찾기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="14503_로봇청소기.py">
+    <Compile Include="Baekjoon\1260_DFS와BFS.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="14681_사분면고르기.py">
+    <Compile Include="Baekjoon\1316_그룹단어체커.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1546_평균.py">
+    <Compile Include="Baekjoon\1330_두수비교하기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="15552_빠른A+B.py">
+    <Compile Include="Baekjoon\1389_케빈베이컨의6단계법칙.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="15596_정수N개의합.py">
+    <Compile Include="Baekjoon\14502_연구소.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="15740_A+B-9.py" />
-    <Compile Include="1697_숨바꼭질.py">
+    <Compile Include="Baekjoon\14503_로봇청소기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1712_손익분기점.py">
+    <Compile Include="Baekjoon\14681_사분면고르기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="1966_프린터큐.py">
+    <Compile Include="Baekjoon\1546_평균.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2455_지능형기차.py">
+    <Compile Include="Baekjoon\15552_빠른A+B.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="__1967_트리의지름.py">
+    <Compile Include="Baekjoon\15596_정수N개의합.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="9019_DSLR.py">
+    <Compile Include="Baekjoon\15740_A+B-9.py" />
+    <Compile Include="Baekjoon\1697_숨바꼭질.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="_2146_다리만들기.py">
+    <Compile Include="Baekjoon\1712_손익분기점.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2178_미로탐색.py">
+    <Compile Include="Baekjoon\1966_프린터큐.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2206_벽부수고이동하기.py">
+    <Compile Include="Baekjoon\2455_지능형기차.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2292_벌집.py">
+    <Compile Include="Baekjoon\__1967_트리의지름.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2438_별찍기.py">
+    <Compile Include="Baekjoon\9019_DSLR.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2446_별찍기-9.py">
+    <Compile Include="Baekjoon\_2146_다리만들기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2468_안전영역.py">
+    <Compile Include="Baekjoon\2178_미로탐색.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2523_별찍기-13.py">
+    <Compile Include="Baekjoon\2206_벽부수고이동하기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2557_HelloWorld.py">
+    <Compile Include="Baekjoon\2292_벌집.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2562_최댓값.py">
+    <Compile Include="Baekjoon\2438_별찍기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="5014_스타트링크.py">
+    <Compile Include="Baekjoon\2446_별찍기-9.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="_2573_빙산.py">
+    <Compile Include="Baekjoon\2468_안전영역.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2577_숫자의개수.py">
+    <Compile Include="Baekjoon\2523_별찍기-13.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2583_영역구하기.py">
+    <Compile Include="Baekjoon\2557_HelloWorld.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2588_곱셈.py">
+    <Compile Include="Baekjoon\2562_최댓값.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2589_보물섬.py">
+    <Compile Include="Baekjoon\5014_스타트링크.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2644_촌수계산.py">
+    <Compile Include="Baekjoon\_2573_빙산.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2667_단지번호붙이기.py">
+    <Compile Include="Baekjoon\2577_숫자의개수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2675_문자열반복.py">
+    <Compile Include="Baekjoon\2583_영역구하기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2739_구구단.py">
+    <Compile Include="Baekjoon\2588_곱셈.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2741_N찍기.py">
+    <Compile Include="Baekjoon\2589_보물섬.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2742_기찍N.py">
+    <Compile Include="Baekjoon\2644_촌수계산.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2753_윤년.py">
+    <Compile Include="Baekjoon\2667_단지번호붙이기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2839_설탕배달.py">
+    <Compile Include="Baekjoon\2675_문자열반복.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2869_달팽이는올라가고싶다.py">
+    <Compile Include="Baekjoon\2739_구구단.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2908_상수.py">
+    <Compile Include="Baekjoon\2741_N찍기.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2941_크로아티아알파벳.py">
+    <Compile Include="Baekjoon\2742_기찍N.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="3052_나머지.py">
+    <Compile Include="Baekjoon\2753_윤년.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="3055_탈출.py">
+    <Compile Include="Baekjoon\2839_설탕배달.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="4344_평균은넘겠지.py">
+    <Compile Include="Baekjoon\2869_달팽이는올라가고싶다.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="4673_셀프넘버.py">
+    <Compile Include="Baekjoon\2908_상수.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="5543_상근날드.py">
+    <Compile Include="Baekjoon\2941_크로아티아알파벳.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="5622_다이얼.py">
+    <Compile Include="Baekjoon\3052_나머지.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="6603_로또.py">
+    <Compile Include="Baekjoon\3055_탈출.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="7562_나이트의이동.py">
+    <Compile Include="Baekjoon\4344_평균은넘겠지.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="7569_토마토.py">
+    <Compile Include="Baekjoon\4673_셀프넘버.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="7576_토마토.py">
+    <Compile Include="Baekjoon\5543_상근날드.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="8393_합.py">
+    <Compile Include="Baekjoon\5622_다이얼.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="8958_OX퀴즈.py">
+    <Compile Include="Baekjoon\6603_로또.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="9498_시험성적.py">
+    <Compile Include="Baekjoon\7562_나이트의이동.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="10872_팩토리얼.py">
+    <Compile Include="Baekjoon\7569_토마토.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="programmers200418.py">
+    <Compile Include="Baekjoon\7576_토마토.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="programmers200523.py" />
+    <Compile Include="Baekjoon\8393_합.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\8958_OX퀴즈.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\9498_시험성적.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\10872_팩토리얼.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Programmers\programmers200418.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Programmers\programmers200523.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="Algorithms_Python\">
@@ -485,6 +500,13 @@
       <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
       <Architecture>X64</Architecture>
     </Interpreter>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Preparation\Kakao\" />
+    <Folder Include="Test\" />
+    <Folder Include="Baekjoon\" />
+    <Folder Include="Preparation\" />
+    <Folder Include="Programmers\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
