@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Preparation\Kakao\__[1차]다트게임.py</StartupFile>
+    <StartupFile>Preparation\Kakao\__문자열압축.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -136,10 +136,13 @@
     <Compile Include="Baekjoon\2751_수정렬하기2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\__[1차]다트게임.py">
+    <Compile Include="Preparation\Kakao\[1차]다트게임.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Preparation\Kakao\[1차]비밀지도.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Preparation\Kakao\__문자열압축.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Preparation\Kakao\실패율.py">
