@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Preparation\Kakao\뉴스클러스터링.py</StartupFile>
+    <StartupFile>Preparation\Kakao\[1차]캐시.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -142,6 +142,12 @@
     <Compile Include="Preparation\Kakao\[1차]비밀지도.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Preparation\Kakao\[1차]캐시.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Preparation\Kakao\[1차]프렌즈4블록.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Preparation\Kakao\__문자열압축.py">
       <SubType>Code</SubType>
     </Compile>
@@ -149,6 +155,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Preparation\Kakao\뉴스클러스터링.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Preparation\Kakao\수식최대화.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Preparation\Kakao\실패율.py">
