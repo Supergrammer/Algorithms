@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Preparation\Kakao\[1차]캐시.py</StartupFile>
+    <StartupFile>Test\Kakao_2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -136,6 +136,9 @@
     <Compile Include="Baekjoon\2751_수정렬하기2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Test\Kakao_2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Preparation\Kakao\[1차]다트게임.py">
       <SubType>Code</SubType>
     </Compile>
@@ -176,6 +179,15 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Programmers\programmers_lv2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\Kakao_1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\Kakao_3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\Kakao_4.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Test\Socar200823.py">
