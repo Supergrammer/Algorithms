@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Test\Kakao_2.py</StartupFile>
+    <StartupFile>Programmers\_124나라의숫자.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -136,82 +136,63 @@
     <Compile Include="Baekjoon\2751_수정렬하기2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Test\Kakao_2.py">
+    <Compile Include="Programmers\_124나라의숫자.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\[1차]다트게임.py">
+    <Compile Include="Programmers\[1차]비밀지도.py" />
+    <Compile Include="Programmers\[1차]캐시.py" />
+    <Compile Include="Programmers\[1차]프렌즈4블록.py" />
+    <Compile Include="Programmers\__문자열압축.py" />
+    <Compile Include="Programmers\괄호변환.py" />
+    <Compile Include="Programmers\뉴스클러스터링.py" />
+    <Compile Include="Programmers\수식최대화.py" />
+    <Compile Include="Programmers\실패율.py" />
+    <Compile Include="Programmers\크레인인형뽑기게임.py" />
+    <Compile Include="Programmers\키패드누르기.py" />
+    <Compile Include="Programmers\튜플.py" />
+    <Compile Include="Test\2021 KAKAO BLIND RECRUITMENT\Kakao_2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\[1차]비밀지도.py">
+    <Compile Include="Programmers\[1차]다트게임.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\[1차]캐시.py">
+    <Compile Include="Test\Programmers\programmers_lv1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\[1차]프렌즈4블록.py">
+    <Compile Include="Test\Programmers\programmers_lv2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\__문자열압축.py">
+    <Compile Include="Test\2021 KAKAO BLIND RECRUITMENT\Kakao_1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\괄호변환.py">
+    <Compile Include="Test\2021 KAKAO BLIND RECRUITMENT\Kakao_3.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\뉴스클러스터링.py">
+    <Compile Include="Test\2021 KAKAO BLIND RECRUITMENT\Kakao_4.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\수식최대화.py">
+    <Compile Include="Test\Socar\Socar200823.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\실패율.py">
+    <Compile Include="Test\[2020 토스 NEXT] Server Developer\Toss_1은2가좋지만2는생각이없다200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\크레인인형뽑기게임.py">
+    <Compile Include="Test\[2020 토스 NEXT] Server Developer\Toss_김토스와이토스200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\키패드누르기.py">
+    <Compile Include="Test\[2020 토스 NEXT] Server Developer\Toss_내가주운로또복권이가짜인가200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Preparation\Kakao\튜플.py">
+    <Compile Include="Test\[2020 토스 NEXT] Server Developer\Toss_단기기억상실증200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Programmers\programmers_lv1.py">
+    <Compile Include="Test\[2020 토스 NEXT] Server Developer\Toss_유효데이터복사하기200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Programmers\programmers_lv2.py">
+    <Compile Include="Test\[2020 토스 NEXT] Server Developer\Toss_초고속응답함수200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Test\Kakao_1.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test\Kakao_3.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test\Kakao_4.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test\Socar200823.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test\Toss_1은2가좋지만2는생각이없다200801.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test\Toss_김토스와이토스200801.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test\Toss_내가주운로또복권이가짜인가200801.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test\Toss_단기기억상실증200801.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test\Toss_유효데이터복사하기200801.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test\Toss_초고속응답함수200801.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Test\Toss_토스카페바테이블둘레구하기200801.py">
+    <Compile Include="Test\[2020 토스 NEXT] Server Developer\Toss_토스카페바테이블둘레구하기200801.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\__16235_나무재테크.py">
@@ -518,10 +499,10 @@
     <Compile Include="Baekjoon\10872_팩토리얼.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Programmers\programmers200418.py">
+    <Compile Include="Test\Programmers\programmers200418.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Programmers\programmers200523.py" />
+    <Compile Include="Test\Programmers\programmers200523.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="Algorithms_Python\">
@@ -535,11 +516,13 @@
     </Interpreter>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Preparation\Kakao\" />
     <Folder Include="Test\" />
     <Folder Include="Baekjoon\" />
-    <Folder Include="Preparation\" />
     <Folder Include="Programmers\" />
+    <Folder Include="Test\2021 KAKAO BLIND RECRUITMENT\" />
+    <Folder Include="Test\Socar\" />
+    <Folder Include="Test\[2020 토스 NEXT] Server Developer\" />
+    <Folder Include="Test\Programmers\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
