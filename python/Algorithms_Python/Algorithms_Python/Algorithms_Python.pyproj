@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Programmers\_124나라의숫자.py</StartupFile>
+    <StartupFile>Test\2020 네이버 신입 개발자 공개채용 코딩테스트(9월 27일)\Naver_3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -150,6 +150,15 @@
     <Compile Include="Programmers\크레인인형뽑기게임.py" />
     <Compile Include="Programmers\키패드누르기.py" />
     <Compile Include="Programmers\튜플.py" />
+    <Compile Include="Test\2020 네이버 신입 개발자 공개채용 코딩테스트%289월 27일%29\Naver_1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\2020 네이버 신입 개발자 공개채용 코딩테스트%289월 27일%29\Naver_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\2020 네이버 신입 개발자 공개채용 코딩테스트%289월 27일%29\Naver_3.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Test\2021 KAKAO BLIND RECRUITMENT\Kakao_2.py">
       <SubType>Code</SubType>
     </Compile>
@@ -520,6 +529,7 @@
     <Folder Include="Baekjoon\" />
     <Folder Include="Programmers\" />
     <Folder Include="Test\2021 KAKAO BLIND RECRUITMENT\" />
+    <Folder Include="Test\2020 네이버 신입 개발자 공개채용 코딩테스트%289월 27일%29\" />
     <Folder Include="Test\Socar\" />
     <Folder Include="Test\[2020 토스 NEXT] Server Developer\" />
     <Folder Include="Test\Programmers\" />
