@@ -7,45 +7,39 @@ direction = [[], [-1, 0], [-1, -1], [0, -1], [1, -1], [1, 0], [1, 1], [0, 1], [-
 fishes = [[] for _ in range(17)]
 answer = 0
 
-def ipt():
+def init():
     for i in range(4):
         tmp = list(map(int, input().split()))
         for j in range(4):
             Map[i][j] = [tmp[j * 2], tmp[j * 2 + 1]]
-            fishes[tmp[j * 2]] = [i, j, tmp[j * 2 + 1]]
-
-def init():
-    global answer
-    fishes[0] = [0, 0, Map[0][0][1]]
-    fishes[Map[0][0][0]] = []
-    answer += Map[0][0][0]
-    Map[0][0][0] = 0
+            fishes[tmp[j * 2]] = [i, j]
 
 def check(ny, nx):
-    if 0 <= ny < 4 and 0 <= nx < 4\
-            and (not Map[ny][nx] or Map[ny][nx][0] != 0):
+    if 0 <= ny < 4 and 0 <= nx < 4:
         return True
     return False
 
 def move(Map, fishes):
     for i in range(1, 17):
         if fishes[i]:
-            y, x, d = fishes[i]
-            ny, nx = 0, 0
+            y, x = fishes[i]
+            d = Map[y][x][1]
 
             while True:
                 ny, nx = y + direction[d][0], x + direction[d][1]
-                if check(ny, nx):
+                if check(ny, nx)\
+                        and (not Map[ny][nx] or Map[ny][nx][0] != 0):
                     break
                 else:
                     d += 1
                     if d > 8: d -= 8
 
-            fishes[i] = [ny, nx, d]
+            fishes[i] = [ny, nx]
             if Map[ny][nx]:
-                fishes[Map[ny][nx][0]][0], fishes[Map[ny][nx][0]][1] = y, x
-            Map[y][x][1] = d
+                fishes[Map[ny][nx][0]] = [y, x]
             Map[y][x], Map[ny][nx] = Map[ny][nx], Map[y][x]
+            Map[ny][nx][1] = d
+
     return Map, fishes
 
 def copy(Map, fishes):
@@ -60,40 +54,35 @@ def copy(Map, fishes):
 
     return cpyMap, cpyfishes
 
-def shark(Map, fishes, fishscore):
+def turn(Map, fishes, y, x, score):
     cpyMap, cpyfishes = copy(Map, fishes)
+
+    cpyfishes[cpyMap[y][x][0]] = []
+    score += cpyMap[y][x][0]
+    if cpyfishes[0]:
+        cpyMap[cpyfishes[0][0]][cpyfishes[0][1]] = []
+    cpyfishes[0] = [y, x]
+    cpyMap[y][x][0] = 0
+
     cpyMap, cpyfishes = move(cpyMap, cpyfishes)
 
-    y, x = fishes[0][0], fishes[0][1]
-    ischanged = False
-
-    t = 1
+    d = cpyMap[y][x][1]
+    nxt = []
     while True:
-        iy = y + direction[fishes[0][2]][0] * t
-        ix = x + direction[fishes[0][2]][1] * t
-        if not check(iy, ix):
-             break
-        t += 1
-        if not Map[iy][ix]:
-            continue
+        y += direction[d][0]; x += direction[d][1]
+        if check(y, x):
+            if cpyMap[y][x]:
+                nxt.append([y, x])
+        else: break
 
-        ischanged = True
-        recMap, recfishes = copy(cpyMap, cpyfishes)
-
-        recfishes[0] = [iy, ix, recMap[iy][ix][1]]
-        recfishes[recMap[iy][ix][0]] = []
-        score = fishscore + recMap[iy][ix][0]
-        recMap[iy][ix] = [0, recfishes[0][2]]
-        recMap[y][x] = []
-
-        shark(recMap, recfishes, score)
-
-    if not ischanged:
+    if not nxt:
         global answer
-        answer = max(answer, fishscore)
+        answer = max(score, answer)
+        return
 
-ipt()
+    for iy, ix in nxt:
+        turn(cpyMap, cpyfishes, iy, ix, score)
+
 init()
-shark(Map, fishes, answer)
-
+turn(Map, fishes, 0, 0, 0)
 print(answer)
