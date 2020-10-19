@@ -42,20 +42,9 @@ def move(Map, fishes):
 
     return Map, fishes
 
-def copy(Map, fishes):
-    cpyMap = [[[] for _ in range(4)] for _ in range(4)]
-    cpyfishes = [[] for _ in range(17)]
-
-    for i in range(4):
-        for j in range(4):
-            cpyMap[i][j] = Map[i][j][:]
-    for i in range(17):
-        cpyfishes[i] = fishes[i][:]
-
-    return cpyMap, cpyfishes
-
 def turn(Map, fishes, y, x, score):
-    cpyMap, cpyfishes = copy(Map, fishes)
+    cpyMap = [[block[:] for block in row] for row in Map]
+    cpyfishes = [row[:] for row in fishes]
 
     cpyfishes[cpyMap[y][x][0]] = []
     score += cpyMap[y][x][0]
