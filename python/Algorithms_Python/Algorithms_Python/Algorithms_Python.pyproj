@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Test\DevMatching 백엔드 개발자 코딩테스트\프로그래밍2.py</StartupFile>
+    <StartupFile>Baekjoon\2775_부녀회장이될테야.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -100,7 +100,13 @@
     <Compile Include="Baekjoon\11727_2xn타일링2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Baekjoon\1181_단어정렬.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\11866_요세푸스문제0.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\1259_펠린드롬수.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1427_소트인사이드.py">
@@ -133,7 +139,25 @@
     <Compile Include="Baekjoon\1748_수이어쓰기1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Baekjoon\1874_스택수열.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\1929_소수구하기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\2108_통계학.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\2475_검증수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\2609_최대공약수와최소공배수.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\2751_수정렬하기2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\2775_부녀회장이될테야.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Programmers\_124나라의숫자.py">
