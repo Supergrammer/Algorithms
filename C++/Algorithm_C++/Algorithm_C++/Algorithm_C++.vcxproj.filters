@@ -27,7 +27,13 @@
     <ClCompile Include="BuildTest.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Test.cpp">
+    <ClCompile Include="NHN_수건돌리기게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NHN_시멘트양계산하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NHN_주문표변환하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
