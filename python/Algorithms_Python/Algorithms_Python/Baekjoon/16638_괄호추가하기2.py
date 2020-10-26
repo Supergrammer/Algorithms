@@ -1,0 +1,50 @@
+import sys
+input = sys.stdin.readline
+
+N = int(input())
+string = input().strip()
+
+num, oper = [], []
+ptr = 0
+answer = -sys.maxsize
+
+for i in range(N):
+	if i % 2: oper.append(string[i])
+	else: num.append(int(string[i]))
+
+N //= 2
+
+def calc(nm, op):
+	idx = 0
+	while True:
+		if not op: break
+		if op[idx] == '*':
+			nm[idx] *= nm[idx + 1]
+			del nm[idx + 1], op[idx]
+			idx -= 1
+		idx += 1
+		if idx >= len(op): break
+
+	rtn = nm[0]
+
+	for i in range(len(op)):
+		if op[i] == '+': rtn += nm[i + 1]
+		elif op[i] == '-': rtn -= nm[i + 1]
+		else: rtn *= nm[i + 1]
+	return rtn
+
+def bracket(ptr, nm, op, isBracketed):
+	if ptr == N:
+		global answer
+		answer = max(answer, calc(nm, op))
+		return
+
+	bracket(ptr + 1, nm + [num[ptr + 1]], op + [oper[ptr]], False)
+	if ptr < N and not isBracketed:
+		if oper[ptr] == '+': nm[-1] += num[ptr + 1]
+		elif oper[ptr] == '-': nm[-1] -= num[ptr + 1]
+		else: nm[-1] *= num[ptr + 1]
+		bracket(ptr + 1, nm, op, True)
+
+bracket(0, [num[0]], [], False)
+print(answer)

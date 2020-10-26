@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\2775_부녀회장이될테야.py</StartupFile>
+    <StartupFile>Baekjoon\5676_음주코딩.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -131,6 +131,18 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\15486_퇴사2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\16637_괄호추가하기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\16638_괄호추가하기2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\5676_음주코딩.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\__16639_괄호추가하기3.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\17390_이건꼭풀어야해!.py">
