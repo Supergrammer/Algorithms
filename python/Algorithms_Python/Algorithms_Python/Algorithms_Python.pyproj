@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\5676_음주코딩.py</StartupFile>
+    <StartupFile>Baekjoon\15657_N과M(8).py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Baekjoon\15650_N과M%282%29.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\1000_A+B.py">
       <SubType>Code</SubType>
     </Compile>
@@ -109,6 +112,9 @@
     <Compile Include="Baekjoon\1259_펠린드롬수.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Baekjoon\13913_숨바꼭질4.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\1427_소트인사이드.py">
       <SubType>Code</SubType>
     </Compile>
@@ -133,10 +139,34 @@
     <Compile Include="Baekjoon\15486_퇴사2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Baekjoon\15649_N과M%281%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\15651_N과M%283%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\15652_N과M%284%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\15654_N과M%285%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\15655_N과M%286%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\15656_N과M%287%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\15657_N과M%288%29.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\16637_괄호추가하기.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\16638_괄호추가하기2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\17087_숨바꼭질6.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\5676_음주코딩.py">
