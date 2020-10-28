@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\15657_N과M(8).py</StartupFile>
+    <StartupFile>Baekjoon\1109_섬.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Baekjoon\1071_소트.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\1109_섬.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\15650_N과M%282%29.py">
       <SubType>Code</SubType>
     </Compile>
