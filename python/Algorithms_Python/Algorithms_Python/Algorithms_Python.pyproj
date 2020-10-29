@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\1109_섬.py</StartupFile>
+    <StartupFile>Baekjoon\__1516_게임개발.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,7 +25,10 @@
     <Compile Include="Baekjoon\1071_소트.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Baekjoon\1109_섬.py">
+    <Compile Include="Baekjoon\1197_최소스패닝트리.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\__1516_게임개발.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\15650_N과M%282%29.py">
@@ -164,6 +167,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\15657_N과M%288%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\1647_도시분할계획.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\16562_친구비.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\16637_괄호추가하기.py">
@@ -330,7 +339,7 @@
     <Compile Include="Baekjoon\9465_스티커.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Baekjoon\__9466_텀프로젝트.py">
+    <Compile Include="Baekjoon\9466_텀프로젝트.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\_1987_알파벳.py">
