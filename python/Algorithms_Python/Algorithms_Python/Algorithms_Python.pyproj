@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\__1516_게임개발.py</StartupFile>
+    <StartupFile>Baekjoon\20053_최소,최대2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1197_최소스패닝트리.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\20053_최소,최대2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\3584_가장가까운공통조상.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\__1516_게임개발.py">
