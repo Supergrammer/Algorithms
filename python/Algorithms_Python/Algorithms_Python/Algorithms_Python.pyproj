@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\20053_최소,최대2.py</StartupFile>
+    <StartupFile>Test\우아한테크코스 3기 온라인 코딩테스트(웹프론트엔드과정)\프로그래밍7.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -611,6 +611,27 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Test\Programmers\programmers200523.py" />
+    <Compile Include="Test\우아한테크코스 3기 온라인 코딩테스트%28웹프론트엔드과정%29\프로그래밍1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\우아한테크코스 3기 온라인 코딩테스트%28웹프론트엔드과정%29\프로그래밍2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\우아한테크코스 3기 온라인 코딩테스트%28웹프론트엔드과정%29\프로그래밍3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\우아한테크코스 3기 온라인 코딩테스트%28웹프론트엔드과정%29\프로그래밍4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\우아한테크코스 3기 온라인 코딩테스트%28웹프론트엔드과정%29\프로그래밍5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\우아한테크코스 3기 온라인 코딩테스트%28웹프론트엔드과정%29\프로그래밍6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Test\우아한테크코스 3기 온라인 코딩테스트%28웹프론트엔드과정%29\프로그래밍7.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="Algorithms_Python\">
@@ -630,6 +651,7 @@
     <Folder Include="Test\2021 KAKAO BLIND RECRUITMENT\" />
     <Folder Include="Test\2020 네이버 신입 개발자 공개채용 코딩테스트%289월 27일%29\" />
     <Folder Include="Test\DevMatching 백엔드 개발자 코딩테스트\" />
+    <Folder Include="Test\우아한테크코스 3기 온라인 코딩테스트%28웹프론트엔드과정%29\" />
     <Folder Include="Test\Socar\" />
     <Folder Include="Test\[2020 토스 NEXT] Server Developer\" />
     <Folder Include="Test\Programmers\" />
