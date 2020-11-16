@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Test\우아한테크코스 3기 온라인 코딩테스트(웹프론트엔드과정)\프로그래밍7.py</StartupFile>
+    <StartupFile>Programmers\2xn타일링.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -223,6 +223,9 @@
     <Compile Include="Baekjoon\2775_부녀회장이될테야.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Programmers\2xn타일링.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Programmers\_124나라의숫자.py">
       <SubType>Code</SubType>
     </Compile>
@@ -230,13 +233,34 @@
     <Compile Include="Programmers\[1차]캐시.py" />
     <Compile Include="Programmers\[1차]프렌즈4블록.py" />
     <Compile Include="Programmers\__문자열압축.py" />
+    <Compile Include="Programmers\가장먼노드.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Programmers\괄호변환.py" />
+    <Compile Include="Programmers\기능개발.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Programmers\네트워크.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Programmers\뉴스클러스터링.py" />
+    <Compile Include="Programmers\다리를지나는트럭.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Programmers\단어변환.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Programmers\두개뽑아서더하기.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Programmers\수식최대화.py" />
     <Compile Include="Programmers\실패율.py" />
     <Compile Include="Programmers\크레인인형뽑기게임.py" />
     <Compile Include="Programmers\키패드누르기.py" />
     <Compile Include="Programmers\튜플.py" />
+    <Compile Include="Programmers\프린터.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Test\2020 네이버 신입 개발자 공개채용 코딩테스트%289월 27일%29\Naver_1.py">
       <SubType>Code</SubType>
     </Compile>
