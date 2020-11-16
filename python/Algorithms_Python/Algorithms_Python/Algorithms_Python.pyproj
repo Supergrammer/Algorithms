@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Programmers\2xn타일링.py</StartupFile>
+    <StartupFile>Programmers\__위장.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -254,7 +254,17 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Programmers\수식최대화.py" />
+    <Compile Include="Programmers\스코빌지수.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Programmers\실패율.py" />
+    <Compile Include="Programmers\완주하지못한선수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Programmers\__위장.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Programmers\주식가격.py" />
     <Compile Include="Programmers\크레인인형뽑기게임.py" />
     <Compile Include="Programmers\키패드누르기.py" />
     <Compile Include="Programmers\튜플.py" />
