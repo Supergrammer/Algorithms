@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Programmers\[카카오인턴]보석쇼핑.py</StartupFile>
+    <StartupFile>Programmers\__입국심사.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -276,6 +276,9 @@
     <Compile Include="Programmers\__위장.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Programmers\__입국심사.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Programmers\정수내림차순으로배치하기.py">
       <SubType>Code</SubType>
     </Compile>
@@ -285,6 +288,9 @@
     <Compile Include="Programmers\주식가격.py" />
     <Compile Include="Programmers\크레인인형뽑기게임.py" />
     <Compile Include="Programmers\키패드누르기.py" />
+    <Compile Include="Programmers\타겟넘버.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Programmers\튜플.py" />
     <Compile Include="Programmers\프린터.py">
       <SubType>Code</SubType>
