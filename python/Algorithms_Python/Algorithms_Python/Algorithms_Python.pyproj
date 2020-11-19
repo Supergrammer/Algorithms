@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Programmers\__입국심사.py</StartupFile>
+    <StartupFile>Baekjoon\11721_열개씩끊어출력하기.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,10 +25,25 @@
     <Compile Include="Baekjoon\1071_소트.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Baekjoon\1074_Z.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\11719_그대로출력하기2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\11721_열개씩끊어출력하기.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\1197_최소스패닝트리.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Baekjoon\1991_트리순회.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\20053_최소,최대2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\2447_별찍기-10.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\3584_가장가까운공통조상.py">
