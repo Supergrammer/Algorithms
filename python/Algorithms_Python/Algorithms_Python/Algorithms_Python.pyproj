@@ -736,6 +736,7 @@
     <Folder Include="Test\2021 KAKAO BLIND RECRUITMENT\" />
     <Folder Include="Test\2020 네이버 신입 개발자 공개채용 코딩테스트%289월 27일%29\" />
     <Folder Include="Test\DevMatching 백엔드 개발자 코딩테스트\" />
+    <Folder Include="Test\[카카오추천팀] 2020 겨울 인턴십 2차 코딩테스트\" />
     <Folder Include="Test\[카카오추천팀] 2020 겨울 인턴십 1차 코딩테스트\" />
     <Folder Include="Test\우아한테크코스 3기 온라인 코딩테스트%28웹프론트엔드과정%29\" />
     <Folder Include="Test\Socar\" />
@@ -743,6 +744,15 @@
     <Folder Include="Test\Programmers\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Test\[카카오추천팀] 2020 겨울 인턴십 2차 코딩테스트\1.Mini Reco Ver.1.py">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Test\[카카오추천팀] 2020 겨울 인턴십 2차 코딩테스트\2.제이슨과 고양이 Small.py">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Test\[카카오추천팀] 2020 겨울 인턴십 2차 코딩테스트\3.제이슨과 고양이 Large.py">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="Test\[카카오추천팀] 2020 겨울 인턴십 1차 코딩테스트\1_Diverse Deputations.py">
       <SubType>Code</SubType>
     </Content>
