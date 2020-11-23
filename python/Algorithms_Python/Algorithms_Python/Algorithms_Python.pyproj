@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\11721_열개씩끊어출력하기.py</StartupFile>
+    <StartupFile>Baekjoon\1373_2진수8진수.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -35,6 +35,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1197_최소스패닝트리.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\1373_2진수8진수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\1764_듣보잡.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1991_트리순회.py">
