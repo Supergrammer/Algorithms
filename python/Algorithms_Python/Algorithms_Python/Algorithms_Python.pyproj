@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\1373_2진수8진수.py</StartupFile>
+    <StartupFile>Baekjoon\16235_나무재테크.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -53,6 +53,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\3584_가장가까운공통조상.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\4153_직각삼각형.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\__1516_게임개발.py">
@@ -382,7 +385,7 @@
     <Compile Include="Test\[2020 토스 NEXT] Server Developer\Toss_토스카페바테이블둘레구하기200801.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Baekjoon\__16235_나무재테크.py">
+    <Compile Include="Baekjoon\16235_나무재테크.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1904_01타일.py">
