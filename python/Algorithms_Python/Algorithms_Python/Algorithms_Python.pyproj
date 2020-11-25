@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\16235_나무재테크.py</StartupFile>
+    <StartupFile>Baekjoon\11279_최대힙.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,6 +28,9 @@
     <Compile Include="Baekjoon\1074_Z.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Baekjoon\11279_최대힙.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\11719_그대로출력하기2.py">
       <SubType>Code</SubType>
     </Compile>
@@ -41,6 +44,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1764_듣보잡.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\1927_최소힙.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1991_트리순회.py">
