@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\11279_최대힙.py</StartupFile>
+    <StartupFile>Baekjoon\10826_피보나치수4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,6 +28,9 @@
     <Compile Include="Baekjoon\1074_Z.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Baekjoon\10826_피보나치수4.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\11279_최대힙.py">
       <SubType>Code</SubType>
     </Compile>
@@ -43,7 +46,19 @@
     <Compile Include="Baekjoon\1373_2진수8진수.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Baekjoon\1629_곱셈.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\17140_이차원배열과연산.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\17144_미세먼지안녕!.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\1764_듣보잡.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\18258_큐2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1927_최소힙.py">
@@ -52,10 +67,19 @@
     <Compile Include="Baekjoon\1991_트리순회.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Baekjoon\1992_쿼드트리.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Baekjoon\20053_최소,최대2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\2447_별찍기-10.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\2749_피보나치수3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\2798_블랙잭.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\3584_가장가까운공통조상.py">
