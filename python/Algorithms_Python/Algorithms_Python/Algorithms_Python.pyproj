@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\10826_피보나치수4.py</StartupFile>
+    <StartupFile>Baekjoon\8371_Dyslexia.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -44,6 +44,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1373_2진수8진수.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\15610_AbbeyCourtyard.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1629_곱셈.py">
@@ -86,6 +89,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\4153_직각삼각형.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\8371_Dyslexia.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\9501_꿍의우주여행.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\__1516_게임개발.py">
