@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\16236_아기상어.py</StartupFile>
+    <StartupFile>Baekjoon\1103_게임.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -29,6 +29,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\10826_피보나치수4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\1103_게임.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\11279_최대힙.py">
