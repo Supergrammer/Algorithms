@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\1103_게임.py</StartupFile>
+    <StartupFile>Baekjoon\1967_트리의지름.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -44,6 +44,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1197_최소스패닝트리.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\1967_트리의지름.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1373_2진수8진수.py">
