@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>32a4ce2c-bb54-49c0-b867-6301f6624f0a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Baekjoon\1967_트리의지름.py</StartupFile>
+    <StartupFile>Test\Programmers\programmers_lv4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -44,6 +44,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1197_최소스패닝트리.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\1504_특정한최단경로.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Baekjoon\__1963_소수경로.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Baekjoon\1967_트리의지름.py">
@@ -409,6 +415,7 @@
     <Compile Include="Test\2021 KAKAO BLIND RECRUITMENT\Kakao_4.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Test\Programmers\programmers_lv4.py" />
     <Compile Include="Test\Socar\Socar200823.py">
       <SubType>Code</SubType>
     </Compile>
